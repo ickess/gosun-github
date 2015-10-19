@@ -1,7 +1,7 @@
 package com.gosun.github.gosun_github;
 
 /**
- * Hello world!
+ * Hello world!	
  *
  */
 public class App 
